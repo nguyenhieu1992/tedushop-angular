@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "jquery@2.2.3",
+      "destination": "Assets/admin/libs/jquery",
+      "files": [
+        "jquery.js"
+      ]
+    },
+    {
+      "library": "toastr.js@2.1.4",
+      "destination": "Assets/admin/libs/toastr"
+    },
+    {
+      "provider": "jsdelivr",
+      "library": "ngbootbox@0.2.0",
+      "destination": "Assets/admin/libs/ngBootbox"
+    }
+    
+  ]
+}
