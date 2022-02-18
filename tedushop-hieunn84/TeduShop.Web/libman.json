@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "jquery@2.2.3",
+      "destination": "Assets/admin/libs/jquery",
+      "files": [ "jquery.js" ]
+    }
+    
+  ]
+}
